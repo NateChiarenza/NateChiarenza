@@ -1,4 +1,4 @@
-- Hi, I’m @NateChiarenza
+- Hi, I’m @Nate
 - I’m a software engineer
 
 <!---
